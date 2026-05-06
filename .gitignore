@@ -1,0 +1,17 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Local Data (Never upload the 1,460 records to GitHub)
+data/raw/
+data/processed/
+*.csv
+
+# Database & Credentials
+*.db
+.env
+config/credentials.yaml
+
+# OS files
+.DS_Store

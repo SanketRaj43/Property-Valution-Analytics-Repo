@@ -1,0 +1,21 @@
+name: property-price-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - missingno
+  - sqlalchemy
+  - psycopg2
+  - python-dotenv
+  - pyyaml
+  - pip
+  - pip:
+      - kaggle
