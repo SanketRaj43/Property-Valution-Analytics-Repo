@@ -11,8 +11,8 @@ dependencies:
   - seaborn
   - scikit-learn
   - scipy
-  - missingno
-  - sqlalchemy
+  - missingno 
+  - sqlalchemy 
   - psycopg2
   - python-dotenv
   - pyyaml
